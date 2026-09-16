@@ -1,6 +1,6 @@
 # Slack-bot
 ## Bit-Bot
-**Bit-bot Shows YSWS catalog of hackclub on command.**
+**Bit-bot Shows YSWS catalog of hackclub on command.**\
 It uses Hackclub YSWS API to show Catalog. 
 ## Commands
 - **/bit_bot-ascend** - Calls the Bot.
