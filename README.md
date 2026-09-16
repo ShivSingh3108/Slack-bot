@@ -7,3 +7,7 @@
 - **/bit_bot-ysws name of the ysws** - Shows the Details of Desired ysws.
 - **/bit_bot-about** - Tells about himself.
 - **/bit_bot-cookie** - Just a cookie of gratitude.
+## Languages
+JAVASCRIPT
+### Made by
+**SHIV SINGH**
